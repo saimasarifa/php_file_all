@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe21514-291a-4fbd-a2c9-f3385e6fc307" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/another_write.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/counter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/counter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/counter1.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/new.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/text.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/another_read_file.php" afterPath="$PROJECT_DIR$/another_read_file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete_file.php" afterPath="$PROJECT_DIR$/delete_file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file_create.php" afterPath="$PROJECT_DIR$/file_create.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forRead.txt" afterPath="$PROJECT_DIR$/forRead.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/read_file.php" afterPath="$PROJECT_DIR$/read_file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/saima.txt" afterPath="$PROJECT_DIR$/saima.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/saimasarifa.txt" afterPath="$PROJECT_DIR$/saimasarifa.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/write_file.php" afterPath="$PROJECT_DIR$/write_file.php" />
     </list>
     <ignored path="php_file_all.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,8 +80,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="counter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/counter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="285">
+              <caret line="7" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/counter1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.36312848" vertical-offset="0" max-vertical-offset="537">
               <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -131,16 +130,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/counter.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -167,6 +156,7 @@
         <option value="$PROJECT_DIR$/delete_file.php" />
         <option value="$PROJECT_DIR$/read_file.php" />
         <option value="$PROJECT_DIR$/counter.php" />
+        <option value="$PROJECT_DIR$/counter1.php" />
       </list>
     </option>
   </component>
@@ -421,6 +411,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="285">
+          <caret line="7" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counter1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36312848" vertical-offset="0" max-vertical-offset="537">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
