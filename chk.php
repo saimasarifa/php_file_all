@@ -1,6 +1,6 @@
 <?php
-$my_file = 'saimasarifa.txt';
-$handle = fopen($my_file, 'a') or die('Cannot open file:  '.$my_file);
+$my_file = 'saima.txt';
+$handle = fopen($my_file, 'a') ;
 $data = 'New data line 1';
 fwrite($handle, $data);
 $new_data = "\n".'New data line 2';
